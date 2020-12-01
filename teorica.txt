@@ -1,0 +1,74 @@
+1. A. Protocolo de comunicação de navegadores com sites web, o usuário insere um endereço e o navegador retorna informações que a pessoa solicitou.
+
+B. HTTP é um protocolo baseado em texto sem conexão. Isso significa que as pessoas que acessam o site da sua empresa enviam solicitações a servidores que as exibem na forma do seu site em formato de texto, imagens, e outros tipos de mídia. Depois que a solicitação é atendida por um servidor, a conexão entre o usuário e o servidor é desconectada.
+
+C. 200 = indica sucesso da solicitação.
+
+404 = indica que a solicitação está incorreta.
+
+D. O HTTPS possui uma camada adicional de criptografia que permite os dados sejam transmitidos através de uma conexão criptografada e que se verifique a autenticidade do servidor e do cliente através de certificados digitais.
+
+1. A. {
+
+&quot;Aluno&quot;:[
+
+{ &quot;Nome&quot;: &quot;Humberto&quot;,
+
+&quot;Idade&quot;: 36,
+
+&quot;Endereço&quot;: &quot;Rua X&quot;,
+
+&quot;Cidade&quot;: &quot;Araxá&quot;,
+
+&quot;UF&quot;: &quot;MG&quot;
+
+},
+
+]
+
+}
+
+B. {
+
+&quot;Carro&quot;: [
+
+{ &quot;Id&quot;: 1,
+
+&quot;Modelo&quot;: &quot;Ford Ka&quot;,
+
+&quot;Placa&quot;: ABCD 123,
+
+&quot;Ano&quot;: 2020
+
+},
+
+]
+
+}
+
+3 -  **Model**
+ A responsabilidade dos models é representar o negócio. Também é responsável pelo acesso e manipulação dos dados na sua aplicação.
+
+**View**
+ A view é responsável pela interface que será apresentada, mostrando as informações do model para o usuário.
+
+**Controller**
+ É a camada de controle, responsável por ligar o model e a view, fazendo com que os models possam ser repassados para as views e vice-versa.
+
+4 - A. Ferramenta para desenvolvimento crida pela Microsoft, onde o DEV tem acesso a inúmeras ferramentas que o auxilia na criação de uma aplicação
+
+B. Software que simula as requisições feita em um navegador, o usuário insere os dados através de um JSON e a aplicação faz a validação destes dados e retorna um status HTTP.
+
+C. Plataforma criada para armazenar códigos, e deixá-lo aberto para a comunidade acessá-lo e contribuir com o mesmo.
+
+5 - Maneira de direcionar requisições feita através de HTTP, para os métodos do contoller.
+
+6-
+
+GET : Ler
+
+POST: Criar
+
+PUT: Atualizar
+
+DELETE: Deletar

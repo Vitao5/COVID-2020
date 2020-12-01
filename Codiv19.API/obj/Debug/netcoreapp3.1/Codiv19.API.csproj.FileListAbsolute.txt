@@ -1,0 +1,223 @@
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.exe
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.deps.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.dev.json
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.pdb
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csprojAssemblyReference.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfoInputs.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfo.cs
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.RazorTargetAssemblyInfo.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.Manifest.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.xml
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.pdb
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.genruntimeconfig.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CopyComplete
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CoreCompileInputs.cache
+E:\Faculdade\2020_2\programação web\códigos\códigos aula\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.exe
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.deps.json
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.json
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.dev.json
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.pdb
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csprojAssemblyReference.cache
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfoInputs.cache
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfo.cs
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.RazorTargetAssemblyInfo.cache
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CopyComplete
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.Manifest.cache
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.xml
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.pdb
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.genruntimeconfig.cache
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CoreCompileInputs.cache
+C:\Users\vitin\Desktop\Covid19\Codiv19.API\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csprojAssemblyReference.cache
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfoInputs.cache
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfo.cs
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.pdb
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.exe
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.deps.json
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.json
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.dev.json
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.pdb
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.Manifest.cache
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.xml
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\scopedcss\bundle\Codiv19.API.styles.css
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.RazorTargetAssemblyInfo.cache
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CopyComplete
+C:\Users\Lucas\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.genruntimeconfig.cache
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.exe
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.deps.json
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.json
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.runtimeconfig.dev.json
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Codiv19.API.pdb
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csprojAssemblyReference.cache
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfoInputs.cache
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.AssemblyInfo.cs
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CoreCompileInputs.cache
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.RazorTargetAssemblyInfo.cache
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.csproj.CopyComplete
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.Manifest.cache
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\staticwebassets\Codiv19.API.StaticWebAssets.xml
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.dll
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.pdb
+C:\Users\luanc\Desktop\Api-Covid-2020\Api-Covid-2020\Codiv19.API\obj\Debug\netcoreapp3.1\Codiv19.API.genruntimeconfig.cache

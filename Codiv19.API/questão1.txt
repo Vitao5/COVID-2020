@@ -1,0 +1,1 @@
+1-A validação é uma etapa crucial na segurança digital para que nos certifiquemos da identidade de um usuário. Como quem comete fraudes geralmente rouba informações pessoais, validar dados é fundamental, pois submete esses dados ao crivo da proprietária original das informações.
